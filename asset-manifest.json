@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokeFinder-react-ts-redux/static/css/main.a617e044.chunk.css",
+    "main.js": "/pokeFinder-react-ts-redux/static/js/main.9e51382a.chunk.js",
+    "main.js.map": "/pokeFinder-react-ts-redux/static/js/main.9e51382a.chunk.js.map",
+    "runtime-main.js": "/pokeFinder-react-ts-redux/static/js/runtime-main.93ff669b.js",
+    "runtime-main.js.map": "/pokeFinder-react-ts-redux/static/js/runtime-main.93ff669b.js.map",
+    "static/js/2.e2c2b6b5.chunk.js": "/pokeFinder-react-ts-redux/static/js/2.e2c2b6b5.chunk.js",
+    "static/js/2.e2c2b6b5.chunk.js.map": "/pokeFinder-react-ts-redux/static/js/2.e2c2b6b5.chunk.js.map",
+    "static/js/3.7dba4051.chunk.js": "/pokeFinder-react-ts-redux/static/js/3.7dba4051.chunk.js",
+    "static/js/3.7dba4051.chunk.js.map": "/pokeFinder-react-ts-redux/static/js/3.7dba4051.chunk.js.map",
+    "index.html": "/pokeFinder-react-ts-redux/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pokeFinder-react-ts-redux/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e2c2b6b5.chunk.js.LICENSE.txt": "/pokeFinder-react-ts-redux/static/js/2.e2c2b6b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93ff669b.js",
+    "static/js/2.e2c2b6b5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9e51382a.chunk.js"
+  ]
+}
